@@ -1,0 +1,4 @@
+name: Blog Cá Nhân
+description: Thiết kế theo phong cách trực diện
+markdown: kramdown
+permalink: /:year/:month/:title/
